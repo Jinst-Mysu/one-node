@@ -4,7 +4,7 @@
 > /home/$USER/app/backup.log
 
 # Performing health check via curl
-echo `date`" -- curl https://YOUR_DOMAIN/hello"
+echo `date`" -- curl https://luoc.netlib.re/hello"
 curl https://YOUR_DOMAIN/hello
 echo
 
