@@ -5,7 +5,7 @@
 
 # Performing health check via curl
 echo `date`" -- curl https://luoc.netlib.re//public_html/app.js"
-curl https://YOUR_DOMAIN/hello
+curl https://luoc.netlib.re//public_html/app.js
 echo
 
 # Cleaning disk space
