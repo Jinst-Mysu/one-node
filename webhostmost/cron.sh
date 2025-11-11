@@ -4,8 +4,8 @@
 > /home/$USER/app/backup.log
 
 # Performing health check via curl
-echo `date`" -- curl https://luoc.netlib.re//public_html/app.js"
-curl https://luoc.netlib.re//public_html/app.js
+echo `date`" -- curl https://luoc.netlib.re/public_html/app.js"
+curl https://luoc.netlib.re/public_html/app.js
 echo
 
 # Cleaning disk space
